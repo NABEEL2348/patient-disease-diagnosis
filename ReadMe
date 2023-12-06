@@ -1,1 +1,2 @@
-
+This project is about patient disease monitoring and it is used predict the disease using Random forest algorithm in classification.
+The python language is used to develop and django framework which is project id deployed.
